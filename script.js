@@ -1,5 +1,5 @@
-function add(value){
-    document.getElementById('display').value += value;
+function add(dig){
+    document.getElementById('display').value += dig;
 }
 function clr(){
     document.getElementById('display').value = "";
